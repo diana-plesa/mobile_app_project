@@ -1,0 +1,4 @@
+SkyJournal – Jurnal de observații ale cerului. Permite înregistrarea obiectelor observate pe cer (stele, Luna, apusuri) și regăsirea ulterioară a aceleiași direcții pe cer. 
+Are patru ecrane: indicatorul de direcție în timp real, adăugarea unei observații, lista observațiilor și detaliile unei observații, cu o săgeată care ghidează utilizatorul înapoi spre punctul salvat. Fiecare observație conține titlu, note, dată și oră, direcție, unghi și o fotografie, stocate local într-o bază de date Room (SQLite). 
+Senzorii folosiți sunt magnetometrul (direcția busolei) și accelerometrul (înclinarea telefonului). 
+Aplicația va fi dezvoltată în Android Studio, în Kotlin cu Jetpack Compose și arhitectură MVVM.
